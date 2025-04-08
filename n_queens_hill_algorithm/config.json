@@ -1,0 +1,6 @@
+{
+  "board_size": 5,
+  "visualize": true,
+  "use_resets": false,
+  "time_sleep": 2
+}
