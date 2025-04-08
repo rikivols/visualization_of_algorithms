@@ -33,3 +33,5 @@ We'll get closer and closer to the result, until we find a position where 0 quee
 This algorithm is optimized to solve up to 1000x1000 board size. It can solve 100x100 in seconds. The queens are stored
 as vectors of rows, columns, diagonals and anti-diagonals, where each new move calculations are done in O(1) time.
 This algorihm is inherently random, you can expect up to 10x differences in speed of finding solutions between different runs.
+
+![program_output.png](program_output.png)

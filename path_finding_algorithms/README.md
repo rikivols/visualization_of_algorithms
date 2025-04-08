@@ -22,3 +22,5 @@ python3 main.py --algorithm bfs --file_name dataset/test_1.txt --wave_mode true
 * **--wave_mode** - if true, will visualize in waves, so only if a new longest path has been found, otherwise it 
 prints each step
 * **--silent_mode** - will only output result
+
+![visualization_bfs.png](visualization_bfs.png)
